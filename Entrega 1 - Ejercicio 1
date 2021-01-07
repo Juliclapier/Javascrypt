@@ -1,0 +1,4 @@
+
+var nombre = prompt("Podrias darme tu nombre?")
+
+console.log("Hola "+nombre+"!");
