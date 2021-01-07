@@ -1,0 +1,5 @@
+var numero = 28;
+
+var numeroprompt = prompt("Decime un numero");
+
+console.log(Number(numeroprompt)+numero);
