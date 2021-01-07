@@ -1,0 +1,4 @@
+var texto1 = prompt("Decime tu nombre");
+var texto2 = prompt("Decime tu apellido");
+
+alert(texto1 +" "+ texto2)
